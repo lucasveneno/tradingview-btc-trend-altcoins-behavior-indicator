@@ -1,7 +1,7 @@
 # BTC & Altcoins Trend Indicator 🔥
 
 ![TradingView](https://img.shields.io/badge/Platform-TradingView-blue)
-![Pine Script](https://img.shields.io/badge/Language-Pine%20Script%20v5-orange)
+![Pine Script](https://img.shields.io/badge/Language-Pine%20Script%20v6-orange)
 ![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen)
 
 A **TradingView Pine Script** indicator to analyze **Bitcoin trends** and their impact on **altcoins** across multiple timeframes and exchanges.
