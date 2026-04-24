@@ -43,7 +43,7 @@ A **TradingView Pine Script** indicator to analyze **Bitcoin trends** and their 
 
 ---
 
-## Installation ⚡
+## Installation 
 
 1. Open [TradingView](https://www.tradingview.com/).
 2. Go to **Pine Editor**.
