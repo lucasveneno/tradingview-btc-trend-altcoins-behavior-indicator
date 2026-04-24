@@ -1,4 +1,4 @@
-# BTC & Altcoins Trend Indicator 🔥
+# BTC & Altcoins Trend Indicator 
 
 ![TradingView](https://img.shields.io/badge/Platform-TradingView-blue)
 ![Pine Script](https://img.shields.io/badge/Language-Pine%20Script%20v6-orange)
@@ -8,13 +8,13 @@ A **TradingView Pine Script** indicator to analyze **Bitcoin trends** and their 
 
 ---
 
-## Screenshot 📸
+## Screenshot 
 
 ![BTC & Altcoins Trend Indicator](screenshot.png)
 
 ---
 
-## Features ✨
+## Features 
 
 - **BTC Trend Detection**
   - Mode 1: Price-based
@@ -32,7 +32,7 @@ A **TradingView Pine Script** indicator to analyze **Bitcoin trends** and their 
 
 ---
 
-## Supported Exchanges 🏦
+## Supported Exchanges 
 
 | Exchange | Symbol Example |
 |----------|----------------|
@@ -51,11 +51,11 @@ A **TradingView Pine Script** indicator to analyze **Bitcoin trends** and their 
 4. Click **Add to Chart**.
 
 Alternatively, try the script directly on TradingView:  
-👉 [Try the Indicator on TradingView](https://www.tradingview.com/script/jgwMdlN7/)
+[Try the Indicator on TradingView](https://www.tradingview.com/script/jgwMdlN7/)
 
 ---
 
-## Usage 💡
+## Usage 
 
 - Monitor BTC trend across multiple timeframes.
 - Track altcoins relative to BTC dominance.
@@ -63,19 +63,19 @@ Alternatively, try the script directly on TradingView:
 
 ---
 
-## Contributing 🤝
+## Contributing 
 
 Open to **pull requests** and **issues**. Suggestions for new features and improvements are welcome.
 
 ---
 
-## License 📄
+## License 
 
 **Mozilla Public License 2.0 (MPL 2.0)**  
 [Read more](https://mozilla.org/MPL/2.0/)
 
 ---
 
-## Disclaimer ⚠️
+## Disclaimer
 
 This indicator is **educational only** and **not financial advice**. Cryptocurrency trading involves **high risk**. Always perform your own research.
